@@ -84,7 +84,7 @@
 
 4. com/reggie/ReggieApplication.java启动后端项目
 
-**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
+**完整代码收费  可以加qq 1556708905 或者加微信zheng0123Long 咨询**
 
 **接毕业设计和论文**
 
