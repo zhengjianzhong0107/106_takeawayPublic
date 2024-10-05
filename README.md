@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1wM41197a1/](https://www.bilibili.com/video/BV1wM41197a1/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot的外卖系统(源码+数据库)106
 
